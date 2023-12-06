@@ -15,8 +15,10 @@
 3. [Datos](#datos)
 4. [Tecnologías](#tecnologías)
 5. [Ejecución](#ejecución)
-6. [Conclusión/es](#conclusión)
-7. [Autor](#autor)
+6. [Primer KPI](#kpi1)
+7. [Segundo KPI](#kpi2)
+8. [Conclusión/es](#conclusión)
+9. [Autor](#autor)
 
 ### Información General
 ***
@@ -54,6 +56,20 @@ Una lista de las tecnologías aplicadas en este proyecto:
 3. Ejecute el notebook de análisis exploratorio (EDA.ipynb) para obtener información detallada sobre los datos.
 4. Explore el dashboard interactivo (VisualizacionKPI's.pbix) para visualizar patrones y tendencias.
 5. (Opcional) Explore los desafíos adicionales en las carpetas correspondientes.
+
+##Primer KPI
+***
+![Image text](https://github.com/Guido097/DA_ProyectoInd_2/blob/main/src/kpi1.jpg?raw=true)
+
+El primer KPI se ve cumplido solo en algunos casos, como se ve en la captura, no en todos los semestres se logró una disminución del 10% de las víctimas fatales en siniestros.
+
+
+##Segundo KPI
+***
+![Image text](https://github.com/Guido097/DA_ProyectoInd_2/blob/main/src/kpi2.jpg?raw=true)
+
+El segundo KPI que busca la disminución de un 7% los siniestros mortales para motocicletas se vio en menor medida cumplido ya que como se ve en la captura, en 2019 y 2020 cayó la cantidad de víctimas pero para 2021 se vió un fuerte incremento de estos casos.
+
 
 ## Conclusión/es
 ***
