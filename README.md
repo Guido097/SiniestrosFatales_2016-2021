@@ -57,14 +57,14 @@ Una lista de las tecnologías aplicadas en este proyecto:
 4. Explore el dashboard interactivo (VisualizacionKPI's.pbix) para visualizar patrones y tendencias.
 5. (Opcional) Explore los desafíos adicionales en las carpetas correspondientes.
 
-##Primer KPI
+## Primer KPI
 ***
 ![Image text](https://github.com/Guido097/DA_ProyectoInd_2/blob/main/src/kpi1.jpg?raw=true)
 
 El primer KPI se ve cumplido solo en algunos casos, como se ve en la captura, no en todos los semestres se logró una disminución del 10% de las víctimas fatales en siniestros, pero se puede apreciar que mientras más pasa el tiempo se ve una tendencia de baja en estos casos.
 
 
-##Segundo KPI
+## Segundo KPI
 ***
 ![Image text](https://github.com/Guido097/DA_ProyectoInd_2/blob/main/src/kpi2.jpg?raw=true)
 
