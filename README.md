@@ -55,13 +55,6 @@ Una lista de las tecnologías aplicadas en este proyecto:
 4. Explore el dashboard interactivo (VisualizacionKPI's.pbix) para visualizar patrones y tendencias.
 5. (Opcional) Explore los desafíos adicionales en las carpetas correspondientes.
 
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-
 ## Conclusión/es
 ***
 Luego de haber estado trabajando en este informe se llega a la conclusión de que las medidas que se llevan a cabo por el gobierno en materia de seguridad vial están llevando a una pequeña disminución paulatina a través de los años, viendo como en el 2016 las víctimas fatales fueron 131 y para el 2021, en cambio se alcanzó la cifra de 95 víctimas fatales. Sin embargo, esas cifras siguen siendo muy altas y no lineales, por lo que en algunas situaciones se ven apercibidos los medidores de rendimiento planteados para este informe. Decimos que estas cifras son altas porque de acuerdo con informes de la "Municipalidad de Córdoba"([Link]<https://drive.google.com/file/d/1TlbDwwNGV_s7Ddw8BcQsEvr9NlmsCatN/view>) para el mismo período(2021) se registraron 66 víctimas fatales siendo en territorio(576km2 contra 203km2) un %288 más grande.
