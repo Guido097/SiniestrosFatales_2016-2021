@@ -71,4 +71,5 @@ Este proyecto busca no solo abordar los requisitos mínimos sino también desafi
 ## Autor
 ***
 Link de Github: https://github.com/Guido097
+
 Link de Linkedin: https://www.linkedin.com/in/guido-lujan/
