@@ -9,7 +9,7 @@
   <img src="https://www.infobae.com/new-resizer/rFmz0ihvY-P7qckmvMuvx8hyhlk=/992x558/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/BGRNAAETQ5GIZNMVE24ZOSFZFU.jpg" alt="Imagen de portada siniestros viales. Fuente: Infobae">
 </p>
 
-## Table of Contents
+## Contenido
 1. [Información General](#información-gral)
 2. [Contexto](#contexto)
 3. [Datos](#datos)
@@ -18,7 +18,7 @@
 6. [Conclusión/es](#conclusión)
 7. [Autor](#autor)
 
-### General Info
+### Información General
 ***
 Este proyecto tiene como objetivo abordar la problemática de los siniestros viales en la Ciudad de Buenos Aires mediante un análisis exhaustivo de datos proporcionados por el Observatorio de Movilidad y Seguridad Vial (OMSV). La iniciativa busca generar información valiosa que permita a las autoridades locales implementar medidas efectivas para reducir la cantidad de víctimas fatales en accidentes de tránsito. 
 
