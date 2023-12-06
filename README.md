@@ -41,7 +41,7 @@ Lo que se realizó fue un análisis de estos datos, una transformación de los m
 
 
 ## Tecnologías
-**
+***
 Una lista de las tecnologías aplicadas en este proyecto:
 * [Python](https://www.python.org/downloads/): Version 3.11.4
 * [Power BI](https://apps.microsoft.com/detail/9NTXR16HNW1T?hl=es-ar&gl=AR)
@@ -55,7 +55,6 @@ Una lista de las tecnologías aplicadas en este proyecto:
 2. Asegúrese de tener todas las dependencias instaladas (pandas, matplotlib, seaborn, etc.).
 3. Ejecute el notebook de análisis exploratorio (EDA.ipynb) para obtener información detallada sobre los datos.
 4. Explore el dashboard interactivo (VisualizacionKPI's.pbix) para visualizar patrones y tendencias.
-5. (Opcional) Explore los desafíos adicionales en las carpetas correspondientes.
 
 ## Primer KPI
 ***
